@@ -1,4 +1,4 @@
-# Virtual Mouse (Hand Control)
+# Virtual Mouse (Hand Control) - (Joy)
 
 It is basicaly a hand gestures control virtual mouse system .
 You may click this link : https://joyswarnakar.github.io/VR_MOUSE-HAND-CONTROL-/
