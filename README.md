@@ -1,7 +1,7 @@
 # Virtual Mouse (Hand Control)
 
 It is basicaly a hand gestures control virtual mouse system .
-You may click this link : https://joyswarnakar.github.io/VR_MOUSE-HAND-CONTROL-/`
+You may click this link : https://joyswarnakar.github.io/VR_MOUSE-HAND-CONTROL-/
 ![Screenshot (280)](https://github.com/user-attachments/assets/0ac231de-4e2d-47e3-915b-83e79c23ac50)
 
 
